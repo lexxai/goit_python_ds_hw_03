@@ -25,4 +25,4 @@
 
 ## Результат
 
-Файл : [goit-ds-hw03-01.ipynb](goit-ds-hw03-01.ipynb)
+Файл : [goit_ds_hw03_01.ipynb](goit_ds_hw03_01.ipynb)
