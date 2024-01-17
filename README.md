@@ -1,10 +1,11 @@
 # Модуль 3. Класичне машинне навчання. Перенавчання. Лінійна регресія.
 
-#python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn #Linear-Regression
+#python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn #LinearRegression #LaTeX
 
 ## Підготовка
 - [Lection_3_prepare.ipynb](https://colab.research.google.com/drive/1zAcxxG7hKCpwu8TEu4JTCBe-TkyY9MMO?usp=sharing).  Dataset: [NY-House-Dataset.csv
 ](NY-House-Dataset.csv)
+- https://latexeditor.lagrida.com/
 
 ## Домашнє завдання
 
@@ -25,4 +26,6 @@
 
 ## Результат
 
-Файл : [goit_ds_hw03_01.ipynb](goit_ds_hw03_01.ipynb)
+Файл : [goit_ds_hw03_01.ipynb](goit_ds_hw03_01.ipynb)   
+
+[Colab](https://colab.research.google.com/drive/19VHs8S9nvYrdARJfuaQ2wWFRmHhMI9id?usp=sharing)
