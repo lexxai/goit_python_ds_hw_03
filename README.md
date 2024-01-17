@@ -32,3 +32,6 @@
 
 ![image](https://github.com/lexxai/goit_python_ds_hw_03/assets/3278842/cfa398ea-43de-448a-8ea7-f479d22b056c)
 
+![image](https://github.com/lexxai/goit_python_ds_hw_03/assets/3278842/117a2ead-ba5e-4734-9c56-0c3d303e438f)
+
+
