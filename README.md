@@ -29,3 +29,6 @@
 Файл : [goit_ds_hw03_01.ipynb](goit_ds_hw03_01.ipynb)   
 
 [Colab](https://colab.research.google.com/drive/19VHs8S9nvYrdARJfuaQ2wWFRmHhMI9id?usp=sharing)
+
+![image](https://github.com/lexxai/goit_python_ds_hw_03/assets/3278842/cfa398ea-43de-448a-8ea7-f479d22b056c)
+
