@@ -1,4 +1,4 @@
-# Модуль 3. Класичне машинне навчання. Перенавчання. Лінійна регресія.
+# Модуль 3. Класичне машинне навчання. Перенавчання. Лінійна регресія. LaTeX формули.
 
 #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn #LinearRegression #LaTeX
 
