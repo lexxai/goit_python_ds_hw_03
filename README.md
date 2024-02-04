@@ -2,6 +2,8 @@
 
 #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn #LinearRegression #LaTeX
 
+*З циклу [домшніх завдвнь Python Data Science](https://github.com/lexxai/goit_python_data_sciense_homework).*
+
 ## Підготовка
 - [Lection_3_prepare.ipynb](https://colab.research.google.com/drive/1zAcxxG7hKCpwu8TEu4JTCBe-TkyY9MMO?usp=sharing).  Dataset: [NY-House-Dataset.csv
 ](NY-House-Dataset.csv)
